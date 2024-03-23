@@ -64,6 +64,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" height="38" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
+<a href="https://cloud.yandex.com/" target="_blank"><img style="margin: 10px" src="https://startpack.ru/repository/application/3119/logo.png" alt="Yandex" height="50" /></a>
 </div>
 
 </td></tr></table>  
