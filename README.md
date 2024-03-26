@@ -62,7 +62,7 @@
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1220503038754689134/1222250745169186816/aws-logo.png?ex=661588b5&is=660313b5&hm=889ce257bfdf70d6c6257dbb15d8367e54ce30d43d099b087b352ab3d0f04a57&" alt="AWS" height="38" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" height="38" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
 <a href="https://cloud.yandex.com/" target="_blank"><img style="margin: 10px" src="https://startpack.ru/repository/application/3119/logo.png" alt="Yandex" height="50" /></a>
 </div>
