@@ -1,32 +1,25 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+</div>
 
-### <div align="center">I'm Muhammad Irteza, A Passionate DevOps Engineer & Developer👨‍💻 Working On-Site at Aun Digital Since 2023 🚀</div>  
-  
+### <div align="center">I'm Muhammad Irteza, A Passionate DevOps Engineer & Developer👨‍💻 Working On-Site at Aun Digital Since 2023 🚀</div>
 
-- ✅ I'm Currently working at Aun Digital as IT Consultant  
-  
+- ✅ I'm Currently working at Aun Digital as IT Consultant
 
-- 🌏 Currently learning Amazon Web Services and Clustering Operations  
-  
+- 🌏 Currently learning Amazon Web Services and Clustering Operations
 
-- ❓ Ask me about anything related to Development Operations and Full stack and related technologies  
-  
+- ❓ Ask me about anything related to Development Operations and Full stack and related technologies
 
-- ⚡ Rules : Learn & Deploy  
-  
+- ⚡ Rules : Learn & Deploy
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -37,9 +30,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
@@ -50,9 +42,8 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -67,12 +58,12 @@
 <a href="https://cloud.yandex.com/" target="_blank"><img style="margin: 10px" src="https://startpack.ru/repository/application/3119/logo.png" alt="Yandex" height="50" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/IrzexBolt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,21 +80,18 @@
 <a href="https://instagram.com/run_irzex" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IrzexBolt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## Github Stats
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=IrzexBolt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/IrzexBolt/IrzexBolt/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
