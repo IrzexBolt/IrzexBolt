@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+  <img src="https://cdn.discordapp.com/attachments/1220503038754689134/1222248540072316948/147838988-0179a135-1d5f-4031-bc7c-3416f3286af9.gif?ex=66654968&is=6663f7e8&hm=8fbff66dd50c838cb20f5fcf31c97792d88b3a38117c98c00d418c617cb74665&" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Muhammad Irteza, A Passionate DevOps Engineer & Developer👨‍💻 Working On-Site at Aun Digital Since 2023 🚀</div>
